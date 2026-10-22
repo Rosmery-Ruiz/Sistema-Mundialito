@@ -1,0 +1,25 @@
+
+# Visual Studio y .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Next.js
+**/node_modules/
+**/.next/
+**/out/
+**/build/
+
+# Archivos privados
+.env
+.env.*
+**/.env
+**/.env.*
+**/secrets.json
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
